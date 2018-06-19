@@ -8,8 +8,9 @@ const Landing = (props) => {
         Hello World :)
       </div>
       < div >
-        StevieIsMagic
+        {`I'm ${props.name}.`}
       </div>
+        {/* {`My passion is people.`} */}
     </div>
   )
 }
