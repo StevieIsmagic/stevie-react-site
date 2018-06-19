@@ -1,1 +1,1 @@
-My Personal Site - Made Via React.js
+My Personal Site - Made Via React.js ~Magic~

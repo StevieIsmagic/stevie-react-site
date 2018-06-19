@@ -1,0 +1,7 @@
+.ParticleComponent {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: linear-gradient(to right, rgb(120, 152, 181), rgb(0, 168, 107));
+}
