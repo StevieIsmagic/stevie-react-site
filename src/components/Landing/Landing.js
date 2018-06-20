@@ -1,13 +1,13 @@
 import React from 'react';
 import NavBar from '../NavBar/NavBar';
-// import ScrollToNext from './components/ScrollToNext';
+import ScrollToNext from '../ScrollToNext/ScrollToNext';
 
 import './Landing.css'
 
 const Landing = (props) => {
   return (
     <div className="landing-page">
-    {/* <div className='landing-jumbotron'> */}
+    
       <NavBar />
       <main>
         <div className="intro-wrapper">
@@ -15,7 +15,7 @@ const Landing = (props) => {
           <div className="tagline"> Full Stack Dev | Humanist </div>
         </div>
       </main>
-      {/* <ScrollToNext pageSelector=".about-page" /> */}
+      <ScrollToNext pageSelector=".about-page" />
     </div>
   );
 };

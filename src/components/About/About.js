@@ -1,5 +1,5 @@
 import React from 'react';
-// import ScrollToNext from './components/ScrollToMext';
+import ScrollToNext from '../ScrollToNext/ScrollToNext';
 import './About.css';
 
 const About = (props) => {
@@ -17,7 +17,7 @@ const About = (props) => {
           </div>
         </div>
       </div>
-      {/* <ScrollToNext pageSelector=".portfolio-page"/> */}
+      <ScrollToNext pageSelector=".portfolio-page"/>
     </div>
   );
 };
