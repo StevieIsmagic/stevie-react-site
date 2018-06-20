@@ -1,6 +1,6 @@
 import React from 'react';
 // import PortfolioItem from './components/PortfolioItem/PortfolioItem';
-// import ScrollToPrevious from './components/ScrollToPrevious/ScrollToPrevious';
+import ScrollToPrevious from '../ScrollToPrevious/ScrollToPrevious';
 // import portfolioItems from './components/PortfolioItem/portfolioItems';
 
 import './Portfolio.css';
@@ -17,7 +17,7 @@ const Portfolio = (props) => {
           ))} */}
         </div>
       </div>
-      {/* <ScrollToPrevious pageSelector=".about-page" /> */}
+      <ScrollToPrevious pageSelector=".about-page" />
     </div>
   );
 };
