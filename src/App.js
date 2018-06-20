@@ -12,9 +12,6 @@ class App extends Component {
        <Landing name={'Steven'}/>
        <About />
        <Portfolio />
-
-       {/* <Landing name={'TESTING'}/> */}
-       {/* <h1 style={{color: 'green'}}>Hello World :)</h1> */}
       </div>
     );
   }
