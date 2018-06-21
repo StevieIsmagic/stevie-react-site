@@ -1,5 +1,6 @@
 import React from 'react';
 import NavBar from '../NavBar/NavBar';
+import SocialIcons from '../SocialIcons/SocialIcons';
 import ScrollToNext from '../ScrollToNext/ScrollToNext';
 
 import './Landing.css'
@@ -12,6 +13,7 @@ const Landing = (props) => {
         <div className="intro-wrapper">
           <div className="intro-name"> Hello World:) <br/> I'm Steven </div>
           <div className="tagline"> Full Stack Dev <br /> Lover - Learner - Doer</div>
+          <SocialIcons />
         </div>
       </main>
       <ScrollToNext pageSelector=".about-page" />
