@@ -17,7 +17,11 @@
 .fas {
   color: white;
   background: transparent;
-  border: none;
+  border: transparent;
+}
+
+.fas:focus{
+  outline: none;
 }
 
 .scroll-to-next > .bounce {
