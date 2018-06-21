@@ -8,7 +8,7 @@ const Footer = (props) => {
       <div className="content-grids">
         <div>
           By <a href="https://github.com/StevieIsmagic">Stevie IsMagic </a>
-          <span>❤️</span>
+          <span role="img" aria-label="heart">❤️</span>
         </div>
       </div>
     </footer>
