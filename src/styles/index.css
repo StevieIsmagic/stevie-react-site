@@ -35,7 +35,7 @@ img {
   height: auto;
 }
 
-/* My - After Reset */
+/* After Reset */
 body {
   display: grid;
   font-family: sans-serif;
@@ -45,5 +45,4 @@ body {
 
 body:hover {
   cursor: grab;
-  
 }
