@@ -10,7 +10,7 @@ const Landing = (props) => {
       <NavBar />
       <main>
         <div className="intro-wrapper">
-          <div className="intro-name"> Hello World:) <br/> I'm Stevie. </div>
+          <div className="intro-name"> Hello World:) <br/> I'm Steven </div>
           <div className="tagline"> Full Stack Dev <br /> Lover - Learner - Doer</div>
         </div>
       </main>
