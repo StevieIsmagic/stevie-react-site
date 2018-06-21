@@ -8,12 +8,18 @@ nav {
   justify-content: flex-end;
   /* tweaks */
   /* z-index: 1; */
-  color: white;
+    background: linear-gradient(to right, rgba(120, 152, 181, 0.75), rgba(0, 168, 106, 0.75));
+}
+
+div {
+  letter-spacing: 0.095rem;
 }
 
 .menu {
   margin-right: 1rem;
   display: flex;
+  flex: 1;
+  justify-content: flex-end;
 }
 
 .menu__item {

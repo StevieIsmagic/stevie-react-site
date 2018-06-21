@@ -5,12 +5,20 @@
   flex: 0 1 auto;
   flex-direction: column;
   justify-content: center;
-  margin: 0 auto;
+
+  /* margin: 0 auto;
   color: white;
+  text-align: center; */
+}
+
+h1 {
+  padding: 1rem 0;
+  font-size: 3rem;
 }
 
 .content-grid {
-  /* flex: auto; */
+  flex: auto;
+
   flex: 1 0 auto;
   flex-direction: column;
   justify-content: center;
@@ -18,10 +26,7 @@
   text-align: center;
 }
 
-h1 {
-  padding: 1rem 0;
-  font-size: 3rem;
-}
+
 
 
 .about-wrapper > .about-content {

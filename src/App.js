@@ -7,9 +7,9 @@ import Footer from './components/Footer/Footer';
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="dev-landing-page">
        <ParticleComponent />
-       <Landing name={'Steven'}/>
+       <Landing />
        <About />
        <Portfolio />
        <Footer />

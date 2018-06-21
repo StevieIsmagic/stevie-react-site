@@ -7,12 +7,11 @@ import './Landing.css'
 const Landing = (props) => {
   return (
     <div className="landing-page">
-    
       <NavBar />
       <main>
         <div className="intro-wrapper">
-          <div className="intro-name"> Hello World:) <br/> {`I'm ${props.name}.`} </div>
-          <div className="tagline"> Full Stack Dev | Humanist </div>
+          <div className="intro-name"> Hello World:) <br/> I'm Stevie. </div>
+          <div className="tagline"> Full Stack Dev <br /> Lover - Learner - Doer</div>
         </div>
       </main>
       <ScrollToNext pageSelector=".about-page" />
