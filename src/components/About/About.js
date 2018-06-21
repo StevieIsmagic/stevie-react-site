@@ -10,10 +10,9 @@ const About = (props) => {
         <div className="about-wrapper"> 
           <div className="about-content">
             <p>
-              I love the creative process. And that's a major reason I'm in love with programming.
-            </p>
-            <p>
-              Programming is a world where the possibilities for what may be created are only limited by one's imagination.
+              I'm in love with the creative process. It's a major reason why I enjoy programming so much.
+              The world of programming is one where the possibilities for what may be created are limited primarily by one's imagination.
+              I especially enjoy the idea of never knowing it all. There's always something new to be learned.
             </p>
             <p>
               If you'd like a good reference of how far my skills have come, visit my previous site and its source code. Please try not to laugh. :)
