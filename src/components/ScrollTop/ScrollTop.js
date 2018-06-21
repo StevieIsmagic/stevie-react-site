@@ -40,8 +40,8 @@ class ScrollToTop extends Component {
         <div
           className={`arrow ${hideArrowClass}`}
         >
-          <button className="fas fa-angle-double-up fa-2x" href="#" />
-          <div className="to-top">To Top</div>
+          <button className="fas fa-rocket fa-2x" href="#" />
+          <div className="to-top">Top</div>
         </div>
       </div>
     );
