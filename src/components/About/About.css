@@ -14,7 +14,6 @@ h1 {
 
 .content-grid {
   flex: auto;
-
   flex: 1 0 auto;
   flex-direction: column;
   justify-content: center;
