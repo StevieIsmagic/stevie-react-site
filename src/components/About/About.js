@@ -11,7 +11,7 @@ const About = (props) => {
           <div className="about-content">
             <p>
               I am in love with the creative process. It is a major reason why I enjoy 
-              programming so much. The freedom allowed while being creative is a 
+              programming so much. The freedom allowed when being creative is a 
               feeling that fuels me. To me, the world of programming is one where 
               the possibilities for what may be created are primarily limited by one's 
               imagination and the desire to impact society.
@@ -19,7 +19,7 @@ const About = (props) => {
             <p>
               My preferred tools are React, Redux, React Native, Node.js, and MongoDB. 
               I strive to build unique and accessible mobile experiences.
-              This website, for example is built using React. 
+              This website, for example, is built using React. 
             </p>
             <p>
               As my skillset has matured through the years, so too has my eye
@@ -28,8 +28,12 @@ const About = (props) => {
               So much so that I strive to live all facets of my life in line with 
               these guiding principles.
             </p>
-            <p> <strong>Simplicity - Minimalism - Functionality</strong> </p>
-            <p>C'est Moi!</p>
+            <p> 
+              Simplicity - Minimalism - Functionality 
+            </p>
+            <p>
+              C'est Moi!
+            </p>
           </div>
         </div>
       </div>
