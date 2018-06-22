@@ -25,11 +25,11 @@ const About = (props) => {
               As my skillset has matured through the years, so too has my eye
               for design. The sentiment I feel toward design principles has been
               heavily influenced by the Scandinavian Aesthetic movement of the 1950s.
-              So much so that I strive to live all facets of my life in line with 
-              these guiding principles.
+              So much so that I strive to extend these guiding principles
+              into many other facets of my life.
             </p>
             <p> 
-              Simplicity - Minimalism - Functionality 
+              <strong> Simplicity - Minimalism - Functionality </strong>
             </p>
             <p>
               C'est Moi!
