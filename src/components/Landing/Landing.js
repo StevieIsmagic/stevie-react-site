@@ -12,7 +12,7 @@ const Landing = (props) => {
       <main>
         <div className="intro-wrapper">
           <div className="intro-name"> Hello World:) <br/> I'm Steven </div>
-          <div className="tagline"> Full Stack Dev <br /> Lover - Learner - Doer</div>
+          <div className="tagline"> Full Stack Dev - Learner - Doer</div>
           <SocialIcons />
         </div>
       </main>

@@ -10,20 +10,25 @@ const About = (props) => {
         <div className="about-wrapper"> 
           <div className="about-content">
             <p>
-              I'm in love with the creative process. It's a major reason why I enjoy programming so much.
-              The world of programming is one where the possibilities for what may be created are limited primarily by one's imagination.
-              I especially enjoy the idea of never knowing it all. There's always something new to be learned.
+              I am in love with the creative process. It is a major reason why I enjoy 
+              programming so much. The freedom allowed while being creative is a 
+              feeling that fuels me. To me, the world of programming is one where 
+              the possibilities for what may be created are primarily limited by one's 
+              imagination and the desire to impact society.
             </p>
             <p>
-              If you'd like a good reference of how far my skills have come, visit my previous site and its source code. Please try not to laugh. :)
+              My preferred tools are React, Redux, React Native, Node.js, and MongoDB. 
+              I strive to build unique and accessible mobile experiences.
+              This website, for example is built using React. 
             </p>
             <p>
-              Through the years, as my skillset has matured, so too has my eye
-              for design. The sentiment I feel toward design principles has always been influenced 
-              greatly by the Scandinavian Aesthetic movement of the 1950s.
-              So much so that I strive to live all facets of my life by these guiding principles.
+              As my skillset has matured through the years, so too has my eye
+              for design. The sentiment I feel toward design principles has been
+              heavily influenced by the Scandinavian Aesthetic movement of the 1950s.
+              So much so that I strive to live all facets of my life in line with 
+              these guiding principles.
             </p>
-            <p> <em>Simplicity - Minimalism - Functionality</em> </p>
+            <p> <strong>Simplicity - Minimalism - Functionality</strong> </p>
             <p>C'est Moi!</p>
           </div>
         </div>
