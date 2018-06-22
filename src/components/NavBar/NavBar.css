@@ -7,6 +7,7 @@ nav {
   align-items: center;
   justify-content: flex-end;
   background: linear-gradient(to right, rgba(120, 152, 181, 0.75), rgba(0, 168, 106, 0.75));
+  /* background: linear-gradient(to right, rgba(33, 183, 173, 0.75), rgba(0, 168, 106, 0.75)); */
 }
 
 div {
