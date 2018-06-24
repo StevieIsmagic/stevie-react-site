@@ -75,3 +75,25 @@ html {
     font-size: 20px;
   }
 }
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+h1 {
+	font-weight: 900;
+}
+
+.content-grid {
+	margin: 0 auto;
+  width: calc(100% - 5rem);
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
