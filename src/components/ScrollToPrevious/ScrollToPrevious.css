@@ -14,6 +14,10 @@
   margin-top: -0.125rem;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .scroll-to-previous > .bounce {
   animation: bounce 2s infinite;
 }

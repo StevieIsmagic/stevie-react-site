@@ -33,6 +33,6 @@ div {
   border-bottom: 2px solid white;
 }
 .menu__item:hover {
-  cursor: grabbing;
+  cursor: pointer;
   
 }

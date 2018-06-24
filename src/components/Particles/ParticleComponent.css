@@ -4,5 +4,6 @@
   height: 100%;
   z-index: -1;
   background: linear-gradient(to right, rgb(120, 152, 181), rgb(0, 168, 107));
-  /* background: linear-gradient(to right, rgb(33, 183, 173), rgb(0, 168, 106)); */
+
+   /* background: linear-gradient(to right, rgb(33, 183, 173), rgb(0, 168, 106)); */
 }

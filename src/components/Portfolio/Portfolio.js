@@ -11,7 +11,6 @@ const Portfolio = (props) => {
       <div className="content-grid">
         <h1>Portfolio</h1>
         <div className="portfolio-wrapper">
-          <p>THIS IS WHERE PORTFOLIO PIECES WILL GO :)</p>
           {portfolioItems.map((item, i) => (
             <PortfolioItem render={item.render} key={i} />
           ))}

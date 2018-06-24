@@ -1,9 +1,8 @@
-Footer {
+footer {
   padding: 0.5rem 0;
-  margin-left: 1rem;
   text-align: left;
   font-size: 0.725rem;
-  color:white;
+  margin: 0.5rem;
 }
 
 a {

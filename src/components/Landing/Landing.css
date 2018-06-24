@@ -4,7 +4,7 @@
   flex: 0 1 auto;
   flex-direction: column;
   justify-content:  center;
-  color: white;
+  /* color: white; */
 }
 
 main {
@@ -33,7 +33,7 @@ main {
 }
 
 .intro-name > .tagline {
-  font-size: 1.375rem;
+  font-size: 1.575rem;
   margin: 1.5rem 0;
   font-weight: 300;
 }

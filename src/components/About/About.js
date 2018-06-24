@@ -28,10 +28,10 @@ const About = (props) => {
               So much so that I strive to extend these guiding principles
               into many other facets of my life.
             </p>
-            <p> 
+            <p id="principles"> 
               <strong> Simplicity - Minimalism - Functionality </strong>
             </p>
-            <p>
+            <p id="french">
               C'est Moi!
             </p>
           </div>
