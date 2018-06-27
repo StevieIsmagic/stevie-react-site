@@ -26,14 +26,14 @@ const About = (props) => {
               for design. The sentiment I feel toward design principles has been
               heavily influenced by the Scandinavian Aesthetic movement of the 1950s.
               So much so that I strive to extend these guiding principles
-              into many other facets of my life.
+              into many other facets of my life. C'est Moi!
             </p>
             <p id="principles"> 
               <strong> Simplicity - Minimalism - Functionality </strong>
             </p>
-            <p id="french">
+            {/* <p id="french">
               C'est Moi!
-            </p>
+            </p> */}
           </div>
         </div>
       </div>

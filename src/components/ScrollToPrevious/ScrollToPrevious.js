@@ -18,7 +18,7 @@ class ScrollToPrevious extends Component {
       >
         <div className="arrow bounce">
           <button className="fas fa-chevron-up fa-2x" href="#" title="arrow button to scroll upward"/>
-          <div className="scroll-text">Click Me</div>
+          <div className="scroll-text"></div>
         </div>
       </div>
     )

@@ -17,7 +17,7 @@ class ScrollToNext extends Component {
         onClick={(e) => this.scrollToNext()}
       >
         <div className="arrow bounce">
-          <div className="scroll-text">Click Me</div>
+          <div className="scroll-text"></div>
           <button className="fas fa-chevron-down fa-2x" href="#" title="arrow button to scroll downward"/>
         </div>
       </div>
