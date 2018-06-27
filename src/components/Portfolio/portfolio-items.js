@@ -5,7 +5,7 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          Testing Project 1
       </div>
       <div className="portfolio-item__description">
         Description for my super cool project  !
@@ -25,7 +25,7 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          Testing Project 2
       </div>
       <div className="portfolio-item__description">
         Description for my super cool project  !
@@ -45,7 +45,7 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          Testing Project 3
       </div>
       <div className="portfolio-item__description">
         Description for my super cool project  !
@@ -65,7 +65,7 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          Testing Project 4
       </div>
       <div className="portfolio-item__description">
         Description for my super cool project  !
@@ -85,18 +85,18 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          SMS News Feed
       </div>
       <div className="portfolio-item__description">
-        Description for my super cool project  !
+        SMS web link to Twilio. Metadata Scraped. Rendered in Newsfeed.
       </div>
       <div className="portfolio-item__icon">
+        <i className="fab fa-node"></i>
         <i className="fab fa-js"></i>
-        <i className="fab fa-react"></i>
       </div>
       <div className="portfolio-item__links">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Live Site</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Source</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.stevieismagic.com/">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/StevieIsmagic/udemy/tree/master/Turbo360/learning-links">Source</a>
       </div>
     </div>
   )
@@ -105,18 +105,18 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Testing Project 
+          Previous Portfolio
       </div>
       <div className="portfolio-item__description">
-        Description for my super cool project  !
+        Projects made between 2014 and early 2018.
       </div>
       <div className="portfolio-item__icon">
-        <i className="fab fa-js"></i>
-        <i className="fab fa-react"></i>
+        <i className="fab fa-html5"></i>
+        <i className="fab fa-css3-alt"></i>
       </div>
       <div className="portfolio-item__links">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Live Site</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Source</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://stevieismagic.github.io/steviestaticsite/">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/StevieIsmagic/steviestaticsite">Source</a>
       </div>
     </div>
   )
