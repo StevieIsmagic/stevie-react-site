@@ -10,11 +10,17 @@
 `Current Audit`
 ![current](./src/assets/Current.png)
 
+***
+
 `Progress Audit`
 ![progress](./src/assets/Progress.png)
 
+***
+
 `Initial Audit`
 ![initial](./src/assets/Start.png)
+
+***
 
 #### To Do
 * Fontawesome from CDN to local
