@@ -105,7 +105,7 @@ export default [{
   render: (
     <div className="portfolio-item">
       <div className="portfolio-item__title">
-          Previous Portfolio
+          Old Portfolio
       </div>
       <div className="portfolio-item__description">
         Projects made between 2014 and early 2018.
