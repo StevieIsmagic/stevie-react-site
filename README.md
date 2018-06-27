@@ -16,7 +16,6 @@
 `Initial Audit`
 ![initial](./src/assets/Start.png)
 
-***
 #### To Do
 * Fontawesome from CDN to local
 * Tweak media queries
