@@ -111,7 +111,7 @@ export default [{
         Projects made between 2014 and early 2018.
       </div>
       <div className="portfolio-item__icon">
-        <i className="fab fa-html5"></i>
+        <i className="fab fa-js"></i>
         <i className="fab fa-css3-alt"></i>
       </div>
       <div className="portfolio-item__links">
