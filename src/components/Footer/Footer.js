@@ -7,8 +7,8 @@ const Footer = (props) => {
     <footer>
       <div >
         <div>
-          <a target="_blank" rel="noopener noreferrer" href="https://github.com/StevieIsmagic/stevie-react-site" title="Stevie IsMagic Github Page">By: StevieIsMagic</a>
-          <span role="img" aria-label="heart" title="heart emoji">❤️</span>
+          Made with <span role="img" aria-label="heart" title="heart emoji">❤️</span>
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/StevieIsmagic/stevie-react-site" title="Stevie IsMagic Github Page"> by StevieIsMagic</a>
         </div>
       </div>
     </footer>
