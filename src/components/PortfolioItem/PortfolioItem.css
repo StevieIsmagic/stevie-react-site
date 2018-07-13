@@ -33,7 +33,7 @@
 }
 
 .portfolio-item__icon {
-  padding: 1rem 0;
+  padding: 1rem;
   font-size: 1.5rem;
   font-weight: 100;
   text-align: center;
@@ -58,4 +58,8 @@
 .portfolio-item__links:hover {
   cursor: pointer;
   border-bottom: 2px solid inherit;
+}
+
+.fab {
+  padding: 0.25rem;
 }
