@@ -61,27 +61,28 @@ export default [
 //       </div>
 //     </div>
 //   )
-// }, {
-//   name: 'Test Project ',
-//   render: (
-//     <div className="portfolio-item">
-//       <div className="portfolio-item__title">
-//           Testing Project 4
-//       </div>
-//       <div className="portfolio-item__description">
-//         Description for my super cool project  !
-//       </div>
-//       <div className="portfolio-item__icon">
-//         <i className="fab fa-js"></i>
-//         <i className="fab fa-react"></i>
-//       </div>
-//       <div className="portfolio-item__links">
-//         <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Live Site</a>
-//         <a target="_blank" rel="noopener noreferrer" href="https://www.google.com">Source</a>
-//       </div>
-//     </div>
-//   )
 // }, 
+{
+  name: 'Test Project ',
+  render: (
+    <div className="portfolio-item">
+      <div className="portfolio-item__title">
+        Property Tax Company
+      </div>
+      <div className="portfolio-item__description">
+        Express.js backend server. Input Forms - Post Route to mLab Database.
+      </div>
+      <div className="portfolio-item__icon">
+        <i className="fab fa-node"></i>
+        <i className="fas fa-database"></i>
+      </div>
+      <div className="portfolio-item__links">
+        <a target="_blank" rel="noopener noreferrer" href="http://www.fpts.net/">Live Site</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/CaptainCodeLLC/fpts">Source</a>
+      </div>
+    </div>
+  )
+}, 
 
 {
   name: 'Test Project ',
@@ -91,7 +92,7 @@ export default [
           SMS News Feed
       </div>
       <div className="portfolio-item__description">
-        SMS web link to Twilio. Metadata Scraped. Rendered in Newsfeed.
+        SMS web link to Twilio - Metadata Scraped - Rendered in Newsfeed.
       </div>
       <div className="portfolio-item__icon">
         <i className="fab fa-node"></i>
