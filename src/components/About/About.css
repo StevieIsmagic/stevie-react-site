@@ -29,7 +29,7 @@ h1 {
 
 .about-content > p {
   font-weight: 300;
-  text-align: justify;
+  /* text-align: justify; */
   padding: 0.5rem 0;
 }
 

@@ -6,34 +6,29 @@ const About = (props) => {
   return (
     <div className="about-page">
       <div className="content-grid">
-        <h1>About</h1>
+        <h1>Click these links to learn more about me ;)</h1>
         <div className="about-wrapper"> 
           <div className="about-content">
-            <p>
-              I am in love with the creative process. It is a major reason why I enjoy 
-              programming so much. The freedom allowed when being creative is a 
-              feeling that fuels me. To me, the world of programming is one where 
-              the possibilities for what may be created are primarily limited by one's 
-              imagination and the desire to impact society.
-            </p>
-            <p>
-              My preferred tools are React, Redux, React Native, Node.js, and MongoDB. 
-              I strive to build unique and accessible mobile experiences.
-              This website, for example, is built using React. 
-            </p>
-            <p>
-              As my skillset has matured through the years, so too has my eye
-              for design. The sentiment I feel toward design principles has been
-              heavily influenced by the Scandinavian Aesthetic movement of the 1950s.
-              So much so that I strive to extend these guiding principles
-              into many other facets of my life. C'est Moi!
-            </p>
+            <p> My closest friends call me Stevie . </p>
+            <p> I am in love with creating . </p>
+            <p> I wrote a book about my life . </p>
+            <p> I’m working on a children’s book atm :) </p>
+            <p> I am a tech consultant . </p>
+            <p> Want to go down a rabbit hole of webapps I’ve made ? </p>
+            <p> I’m currently launching this company  - www.RawCure.com </p>
+            <p> Here is a list of my favorite songs. </p>
+            <p> I studied Philosophy + Religion @ FIU. </p>
+            <p> And Gerontology at USF. </p>
+            <p> I love people . </p>
+            <p> And I think a lot of how to help the world . </p>
+            <p> I'm not perfect . </p>
+            <p> Even so, my actions are sincere. </p>
+            
+            
             <p id="principles"> 
-              <strong> Simplicity - Minimalism - Functionality </strong>
+              <strong> Simple - Minimalist - Flow </strong>
             </p>
-            {/* <p id="french">
-              C'est Moi!
-            </p> */}
+        
           </div>
         </div>
       </div>

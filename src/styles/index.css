@@ -38,14 +38,14 @@ img {
 /* After Reset */
 body {
   display: grid;
-  font-family: sans-serif;
+  font-family: Helvetica;
   color: white;
   text-shadow: 0.08rem 0.08rem grey;
 }
 
 /* Temporary Media Queries */
 html {
- font-family: 'Roboto', sans-serif;  
+ font-family: 'Helvetica', sans-serif;  
 }
 
 @media (min-width: 576px) {
@@ -73,7 +73,7 @@ html {
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-	font-family: Verdana, sans-serif, Geneva;
+	font-family: Helvetica, Verdana, sans-serif, Geneva;
 	font-weight: 300;
 }
 
