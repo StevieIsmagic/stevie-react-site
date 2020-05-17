@@ -14,6 +14,7 @@ const Portfolio = (props) => {
           {/* {portfolioItems.map((item, i) => (
             <PortfolioItem render={item.render} key={i} />
           ))} */}
+          <h1>IG feed here . </h1>
         </div>
       </div>
       <ScrollToPrevious pageSelector=".about-page" />
