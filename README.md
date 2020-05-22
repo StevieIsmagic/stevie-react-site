@@ -2,6 +2,7 @@
 ## Made Via React.js :sparkles:*Magic*:sparkles:
 
 > It's a work in progress, just as I am. Slowly but surely..
+> Currently adding Instagram feed integration =)
 
 ***
 ## Performance Audit
