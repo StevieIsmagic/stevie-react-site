@@ -1,14 +1,12 @@
 const React = require('react');
 const Instafeed = require("instafeed.js");
-const Axios = require("axios");
-
 
 const insta = () => {
-  // Axois GET IG token
-  Axios.get('https://morning-temple-26180.herokuapp.com/https://personal-site-ig-token-refresh.herokuapp.com/token.js')
+  // GET IG Token
+  fetch('https://morning-temple-26180.herokuapp.com/https://nameless-ravine-33561.herokuapp.com/token.js')
     .then((res) => {
 
-      console.log(`AXIOS \n ${JSON.stringify(res, false, 2)}`)
+      console.log("PROXY RES -", res)
       
       const token = res.data.slice(23)
       const token1 = token.slice(0, -2)
@@ -23,7 +21,8 @@ const insta = () => {
       });
       console.log("FEED", feed)
       feed.run();
-      return <div id="instafeed"></div>
+      // return <div id="instafeed"></div>
+      return ;
 
     })
     .catch(err => console.log(`ERR ${err}`))
