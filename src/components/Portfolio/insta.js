@@ -5,10 +5,7 @@ const Axios = require("axios");
 
 const insta = () => {
   // Axois GET IG token
-  const config = {
-    headers: 'Access-Control-Allow-Origin'
-  }
-  Axios.get('https://personal-site-ig-token-refresh.herokuapp.com/token.js')
+  Axios.get('https://morning-temple-26180.herokuapp.com/https://personal-site-ig-token-refresh.herokuapp.com/token.js')
     .then((res) => {
 
       console.log(`AXIOS \n ${JSON.stringify(res, false, 2)}`)
