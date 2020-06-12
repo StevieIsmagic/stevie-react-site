@@ -11,8 +11,8 @@ const Landing = (props) => {
       <NavBar />
       <main>
         <div className="intro-wrapper">
-          <div className="intro-name"> Hello World. <br/> I'm Steven </div>
-          <div className="tagline"> Lover | Learner | Doer</div>
+          <div className="intro-name"> Hey, Stevie here. <br/> Life is short. </div>
+          <div className="tagline"> Click thee links to learn about me. </div>
           <SocialIcons />
         </div>
       </main>
