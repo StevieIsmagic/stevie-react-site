@@ -2,7 +2,7 @@ import React from 'react';
 import PortfolioItem from '../PortfolioItem/PortfolioItem';
 import ScrollToPrevious from '../ScrollToPrevious/ScrollToPrevious';
 import portfolioItems from './portfolio-items';
-import insta from './insta';
+import insta from './fetchInstagramFeed';
 
 import './Portfolio.css';
 
