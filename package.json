@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "ky": "^0.23.0",
-    "ky-universal": "^0.8.1",
+    "env-cmd": "^10.1.0",
     "react": "^16.4.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^2.2.0",
@@ -17,5 +15,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:3000"
+  "proxy": "http://localhost:3000",
+  "devDependencies": {}
 }
