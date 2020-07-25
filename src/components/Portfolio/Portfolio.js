@@ -2,7 +2,7 @@ import React from 'react';
 import PortfolioItem from '../PortfolioItem/PortfolioItem';
 import ScrollToPrevious from '../ScrollToPrevious/ScrollToPrevious';
 import portfolioItems from './portfolio-items';
-import insta from './fetchInstagramFeed';
+import fetchInstagramFeed from './fetchInstagramFeed';
 
 import './Portfolio.css';
 
@@ -15,9 +15,8 @@ const Portfolio = (props) => {
           {/* {portfolioItems.map((item, i) => (
             <PortfolioItem render={item.render} key={i} />
           ))} */}
+  {fetchInstagramFeed() ? [] : []}
 
-          <h1>IG feed here . </h1>
-          {insta()}
         </div>
       </div>
       <ScrollToPrevious pageSelector=".about-page" />
