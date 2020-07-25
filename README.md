@@ -25,6 +25,7 @@
 ***
 
 #### To Do
-* Fontawesome from CDN to local
-* Tweak media queries
-* Continue adding portfolio pieces
+* Fetch IG API data from proxy
+* Client-side calls to IG for individual media object data
+* Render IG Data
+* Night Mode
