@@ -5,6 +5,7 @@ import About from './components/About/About';
 import Portfolio from './components/Portfolio/Portfolio';
 import ScrollTop from './components/ScrollTop/ScrollTop';
 import Footer from './components/Footer/Footer';
+import InstagramFeed from './components/InstagramFeed/InstagramFeed';
 class App extends Component {
   render() {
     return (
@@ -12,6 +13,7 @@ class App extends Component {
        <ParticleComponent />
        <Landing />
        <About />
+       <InstagramFeed />
        <Portfolio />
        <ScrollTop />
        <Footer />
