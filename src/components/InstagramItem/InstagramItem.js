@@ -4,7 +4,7 @@ import './InstagramItem.css';
 
 const InstagramItem = ({ item }) => {
   return (
-    <a href="https://www.instagram.com/stevieismagic/">
+    <a href="https://www.instagram.com/stevieismagic/" target="_blank">
       <div className="instagram-item">
           <div className="instagram-item__media">
             <img src={item.media_url}/>
