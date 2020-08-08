@@ -2,14 +2,14 @@ import React from 'react';
 
 import './InstagramItem.css';
 
-const InstagramItem = ({ render }) => {
-if (render) return render
-else 
+const InstagramItem = ({ item }) => {
+  console.log(`OBJECT`, typeof item.caption)
   return (
     <div className="instagram-item">
-      <div className="instagram-item__media"> TEST MEDIA</div>
-      <div className="instagram-item__title"> TEST TITLE
+      <div className="instagram-item__media">
+      <img src={item.media_url}/>
       </div>
+  <div className="instagram-item__title">{item.caption.substring(0,20)}..</div>
     </div>
   )
 };
