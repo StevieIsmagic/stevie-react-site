@@ -45,7 +45,7 @@ const About = (props) => {
             <p> I'm not perfect. </p>
             <p> I'm not perfect. </p>
             <p> I'm not perfect. </p>
-            <p> Even so, my actions are sincere. </p>
+            <p> But my actions are sincere. </p>
             <p id="principles">
               <strong> @stevieismagic </strong>
             </p>
