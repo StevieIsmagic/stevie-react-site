@@ -14,7 +14,7 @@ class App extends Component {
        <Landing />
        <About />
        <InstagramFeed />
-       <Portfolio />
+       {/* <Portfolio /> */}
        <ScrollTop />
        <Footer />
       </div>

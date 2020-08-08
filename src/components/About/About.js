@@ -32,7 +32,7 @@ const About = (props) => {
           </div>
         </div>
       </div>
-      <ScrollToNext pageSelector=".portfolio-page"/>
+      <ScrollToNext pageSelector=".instagram-page"/>
     </div>
   );
 };

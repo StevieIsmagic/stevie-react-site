@@ -1,5 +1,6 @@
 import React from 'react';
 import InstagramItem from '../InstagramItem/InstagramItem';
+import ScrollToPrevious from '../ScrollToPrevious/ScrollToPrevious';
 import { mediaObjects } from './ig-media-objects';
 
 import './InstagramFeed.css';
@@ -14,6 +15,7 @@ const InstagramFeed = () => {
           ))}
         </div>
       </div>
+      <ScrollToPrevious pageSelector=".about-page" />
     </div>
   );
 };
