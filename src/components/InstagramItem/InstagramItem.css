@@ -1,0 +1,6 @@
+.instagram-item {
+  display: flex;
+  flex-direction: column;
+  border: 10px solid red;
+  margin: 1rem;
+}
