@@ -1,6 +1,28 @@
 .instagram-item {
   display: flex;
   flex-direction: column;
-  border: 10px solid red;
-  margin: 1rem;
+  border: 10px solid pink;
+  margin: 0.5rem 0;
+  border-radius: 2.5%;
+  transition: box-shadow 0.25s;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12),
+    0 2px 1px -2px rgba(0, 0, 0, 0.2);
+  width: 12rem;
+  margin: 1rem 1rem;
+}
+
+.instagram-item__title {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.25rem;
+}
+
+.instagram-item__media {
+  display: flex;
+  flex-direction: column;
+
 }

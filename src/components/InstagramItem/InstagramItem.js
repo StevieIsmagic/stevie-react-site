@@ -8,7 +8,8 @@ else
   return (
     <div className="instagram-item">
       <div className="instagram-item__media"> TEST MEDIA</div>
-      <div className="instagram-item__title"> TEST DESCRIPTION</div>
+      <div className="instagram-item__title"> TEST TITLE
+      </div>
     </div>
   )
 };

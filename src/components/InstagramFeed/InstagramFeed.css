@@ -1,8 +1,19 @@
 .instagram-page {
+  padding-top: 2rem;
+  /* min-height: 100vh; */
   display: flex;
-  background-color: white;
+  flex: 0 1 auto;
+  flex-direction: column;
+  justify-content: center;
+  /* background-color: white; */
 }
 
 .content-grid {
   flex: auto;
+}
+
+.instagram-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }

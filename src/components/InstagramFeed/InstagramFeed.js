@@ -42,7 +42,6 @@ const InstagramFeed = () => {
     <div className="instagram-page">
       <div className="content-grid">
         <div className="instagram-wrapper">
-          <h1>IG FEED HERE</h1>
           {testItems.map((item, i) => (
             <InstagramItem render={item.render} key={i}/>
           ))}
