@@ -29,7 +29,7 @@ class NavBar extends Component {
           </div>
           <div
             className="menu__item"
-            onClick={(e)=> this.scrollToPage('.portfolio-page')}
+            onClick={(e)=> this.scrollToPage('.instagram-page')}
           >
             Portfolio
           </div>
