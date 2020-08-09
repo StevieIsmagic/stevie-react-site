@@ -6,8 +6,9 @@ nav {
   display:flex;
   align-items: center;
   justify-content: flex-end;
-  background: linear-gradient(to right, rgba(120, 152, 181, 0.75), rgba(0, 168, 106, 0.75));
-  /* background: linear-gradient(to right, rgba(33, 183, 173, 0.75), rgba(0, 168, 106, 0.75)); */
+  background: linear-gradient(to right, rgb(200, 200, 207, 0.25), rgb(120, 152, 181, 0.25));
+  /* background: linear-gradient(to right, rgba(120, 152, 181, 0.75), rgba(0, 168, 106, 0.75)); */
+  /* background: linear-gradient(to right, rgba(33, 183, 173, 0.75), rgba(82, 139, 118, 0.75)); */
 }
 
 div {
