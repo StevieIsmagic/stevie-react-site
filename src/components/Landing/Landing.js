@@ -13,6 +13,8 @@ const Landing = (props) => {
         <div className="intro-wrapper">
           <div className="intro-name"> Hello World. <br/> I'm Stevie </div>
           <div className="tagline"> Lover | Learner | Doer</div>
+          {/* <div className="tagline"> Want to help me save your life ? </div> */}
+          {/* <div className="tagline"> CLICK HERE </div> */}
           <SocialIcons />
         </div>
       </main>
