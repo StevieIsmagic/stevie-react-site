@@ -13,7 +13,7 @@ class App extends Component {
        <ParticleComponent />
        <Landing />
        <About />
-       <InstagramFeed />
+       {/* <InstagramFeed /> */}
        {/* <Portfolio /> */}
        <ScrollTop />
        <Footer />
